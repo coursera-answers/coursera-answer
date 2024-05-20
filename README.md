@@ -1,3 +1,7 @@
+<div id="header">
+  <img src="https://komarev.com/ghpvc/?username=coursera-answers&style=for-the-badge&color=green" alt=""/>
+</div>
+
 # Coursera Answer
 
 Welcome to my Coursera Answer! This dedicated to providing comprehensive answers and solutions to the courses I've taken on Coursera. From programming assignments to quizzes, you'll find a detailed breakdown of each task completed.
@@ -26,3 +30,7 @@ Maybe some courses still don't have answers, we will continue to update informat
 Let's connect by following us!
 
 Happy Learning! 🚀
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
