@@ -6,9 +6,9 @@
 
 Welcome to my Coursera Answer! This dedicated to providing comprehensive answers and solutions to the courses I've taken on Coursera. From programming assignments to quizzes, you'll find a detailed breakdown of each task completed.
 
-## About Me
+## About Us
 
-👋 Hello! We are TeamsCloud, a passionate learner who enjoys diving deep into various topics offered on Coursera. I believe in the power of continuous learning and strive to expand my skills with each course I undertake.
+👋 Hello! We are TeamsCloud, a passionate learner who enjoys diving deep into various topics offered on Coursera. We believe in the power of continuous learning and strive to expand my skills with each course we undertake.
 
 ## How to Use
 
