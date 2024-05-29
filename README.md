@@ -19,7 +19,6 @@ Feel free to explore for corresponding to each course to find answers to specifi
 - IBM Data Analyst Professional Certificate
 - IBM Project Management Professional Certificate
 - AWS Cloud Solutions Architect Professional Certificate
-- AWS Cloud Solutions Architect Professional Certificate
 - Meta iOS Developer Professional Certificate
 - More...
 
